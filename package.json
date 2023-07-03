@@ -1,0 +1,7 @@
+{
+  "name": "HTML-EDITOR",
+  "version": "1.0.0",
+  "description": "A simple HTML Editor web page.",
+  "main": "index.js",
+  "license": "MIT"
+}
